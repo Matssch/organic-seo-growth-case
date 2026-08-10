@@ -174,37 +174,37 @@ The further SEO can be connected to commercial outcomes, the more useful the cha
 ---
 
 ## Repository structure
-### 01 — Business Context
+### 01 | Business Context
 
 - [SEO Growth Challenge](01-business-context/seo-challenge.md)
 - [Starting Point](01-business-context/starting-point.md)
 
-### 02 — Technical Foundation
+### 02 | Technical Foundation
 
 - [Measurement & Indexation](02-technical-foundation/measurement-and-indexation.md)
 - [Technical SEO Recovery](02-technical-foundation/technical-seo-recovery.md)
 
-### 03 — Site Architecture
+### 03 | Site Architecture
 
 - [Search-Led Site Architecture](03-site-architecture/search-led-site-architecture.md)
 
-### 04 — Search Demand
+### 04 | Search Demand
 
 - [Search Intent & Content Strategy](04-search-demand/search-intent-and-content-strategy.md)
 
-### 05 — Organic Growth Operations
+### 05 | Organic Growth Operations
 
 - [Organic Growth Operating Model](05-content-growth/organic-growth-operating-model.md)
 
-### 06 — Measurement
+### 06 | Measurement
 
 - [SEO KPI Framework](06-measurement/seo-kpi-framework.md)
 
-### 07 — Results
+### 07 | Results
 
 - [Commercial Impact](07-results/commercial-impact.md)
 
-### 08 — Learnings
+### 08 | Learnings
 
 - [What I Would Do Next](08-learnings/what-i-would-do-next.md)
 
