@@ -1,80 +1,30 @@
 # Search Intent & Content Strategy
 
 ## From publishing information to answering demand
-
-The technical foundation made organic growth possible.
-
-The next challenge was relevance.
-
-At the start of the project, much of the website content was written from the company's perspective.
-
-It explained:
+The technical foundation made organic growth possible. The next challenge was relevance. At the start of the project, much of the website content was written from the company's perspective. It explained:
 
 - What the company did
 - Which services it offered
 - How the organisation worked
 
-But people do not normally start a Google search because they want to read a company's internal description of itself.
-
-They search because they have a need.
-
-That changed the way we approached content.
-
-The shift was:
-
-**What do we want to say?**
-
-to:
-
-**What is the user trying to solve?**
+But people do not normally start a Google search because they want to read a company's internal description of itself. They search because they have a need. That changed the way we approached content. The shift was: **What do we want to say?** to: **What is the user trying to solve?**
 
 ---
 
 ## 1. Starting with search intent
+Before improving or creating a page, we increasingly looked at the intent behind the search. A search term alone does not explain enough. We wanted to understand what someone was actually trying to achieve. The basic model became:
 
-Before improving or creating a page, we increasingly looked at the intent behind the search.
+**Search query** → **Underlying need** → **Relevant answer** → **Best page** → **Next action**
 
-A search term alone does not explain enough.
-
-We wanted to understand what someone was actually trying to achieve.
-
-The basic model became:
-
-**Search query**
-
-↓
-
-**Underlying need**
-
-↓
-
-**Relevant answer**
-
-↓
-
-**Best page**
-
-↓
-
-**Next action**
-
-This helped us avoid creating content purely because a keyword had search volume.
-
-The page needed to make sense within the wider customer or candidate journey.
+This helped us avoid creating content purely because a keyword had search volume. The page needed to make sense within the wider customer or candidate journey.
 
 ---
 
 ## 2. Different searches require different pages
-
-Not every search has the same purpose.
-
-We started separating different types of intent.
+Not every search has the same purpose. We started separating different types of intent.
 
 ### High-intent searches
-
-The user is already looking for a concrete opportunity or solution.
-
-Examples include searches related to:
+The user is already looking for a concrete opportunity or solution.Examples include searches related to:
 
 - Available vacancies
 - Specific types of work
@@ -86,24 +36,14 @@ These searches required clear landing pages with a direct next step.
 ---
 
 ### Problem-aware searches
-
-The user understands the problem but may not yet know the exact solution.
-
-These pages needed to answer the problem first rather than immediately selling the company.
-
-The structure became closer to:
+The user understands the problem but may not yet know the exact solution. These pages needed to answer the problem first rather than immediately selling the company. The structure became closer to:
 
 **Problem → Explanation → Solution → Next step**
 
 ---
 
 ### Informational searches
-
-Some users are earlier in their journey.
-
-They may be researching a topic, trying to understand their options or looking for guidance.
-
-These searches could be supported with useful content that also connected naturally toward more relevant vacancy or solution pages.
+Some users are earlier in their journey. They may be researching a topic, trying to understand their options or looking for guidance. These searches could be supported with useful content that also connected naturally toward more relevant vacancy or solution pages.
 
 ---
 
@@ -141,11 +81,7 @@ This created a more natural relationship between:
 
 ## 4. Vacancies became search assets
 
-Vacancies were especially important.
-
-Instead of treating them only as temporary recruitment listings, we approached them as part of the organic acquisition journey.
-
-The opportunity was to make vacancy content:
+Vacancies were especially important. Instead of treating them only as temporary recruitment listings, we approached them as part of the organic acquisition journey. The opportunity was to make vacancy content:
 
 - Easier to discover
 - Clearer in search
@@ -162,51 +98,23 @@ That meant paying attention to elements such as:
 - Internal links
 - Calls to action
 
-A vacancy page needed to do more than exist.
-
-It needed to match the reason someone searched.
+A vacancy page needed to do more than exist. It needed to match the reason someone searched.
 
 ---
 
 ## 5. Building around topics instead of isolated pages
 
-As the strategy developed, we also moved away from looking at pages independently.
+As the strategy developed, we also moved away from looking at pages independently. Related pages could support each other. The model became:
 
-Related pages could support each other.
+**Core topic** → **Relevant supporting content** → **Specific need** → **High-intent page** → **Conversion**
 
-The model became:
-
-**Core topic**
-
-↓
-
-**Relevant supporting content**
-
-↓
-
-**Specific need**
-
-↓
-
-**High-intent page**
-
-↓
-
-**Conversion**
-
-This created stronger relationships between content.
-
-It also gave internal linking a strategic role.
-
-Instead of adding links because SEO guidance said internal links were useful, we used them to connect related user needs.
+This created stronger relationships between content. It also gave internal linking a strategic role. Instead of adding links because SEO guidance said internal links were useful, we used them to connect related user needs.
 
 ---
 
 ## 6. Improving existing content before creating everything new
 
-Growth did not require rebuilding the entire website from zero.
-
-Existing pages could often be improved by changing:
+Growth did not require rebuilding the entire website from zero. Existing pages could often be improved by changing:
 
 - Search focus
 - Page titles
@@ -219,24 +127,15 @@ Existing pages could often be improved by changing:
 This created a useful distinction between:
 
 ### Optimisation opportunities
-
 A relevant page already exists, but it is not performing strongly enough.
 
 ### Content gaps
-
-Search demand exists, but the website does not have a strong page answering it.
-
-That distinction helped us prioritise effort.
+Search demand exists, but the website does not have a strong page answering it. That distinction helped us prioritise effort.
 
 ---
 
 ## 7. Content needed a commercial role
-
-Organic traffic alone was not the final objective.
-
-Each important page needed to support a next step.
-
-Depending on the page, that could mean:
+Organic traffic alone was not the final objective. Each important page needed to support a next step. Depending on the page, that could mean:
 
 - Viewing a vacancy
 - Applying
@@ -244,13 +143,7 @@ Depending on the page, that could mean:
 - Learning more about a solution
 - Moving toward contact or conversion
 
-This connected SEO with CRO.
-
-The question became:
-
-> If this page successfully earns the click, what happens next?
-
-A page that ranks but creates a dead end is only solving half the problem.
+This connected SEO with CRO. The question became: If this page successfully earns the click, what happens next? A page that ranks but creates a dead end is only solving half the problem.
 
 ---
 
@@ -272,50 +165,21 @@ What is the user trying to accomplish?
 
 ### 4. Commercial value
 
-Does attracting this traffic create a meaningful opportunity for the business?
-
-This prevented SEO from becoming a pure traffic exercise.
+Does attracting this traffic create a meaningful opportunity for the business? This prevented SEO from becoming a pure traffic exercise.
 
 A smaller, highly relevant search opportunity could be more valuable than a large topic with little connection to the business.
 
 ---
 
 ## 9. The organic content loop
-
 The working model became:
-
-**Identify search opportunity**
-
-↓
-
-**Understand intent**
-
-↓
-
-**Create or improve the right page**
-
-↓
-
-**Connect it within the site**
-
-↓
-
-**Measure impressions and traffic**
-
-↓
-
-**Review user behaviour**
-
-↓
-
-**Improve again**
+**Identify search opportunity** → **Understand intent** → **Create or improve the right page** → **Connect it within the site** → **Measure impressions and traffic** → **Review user behaviour** → **Improve again**
 
 SEO content became an optimisation process rather than a one-time publishing exercise.
 
 ---
 
 ## The strategic change
-
 The biggest content change can be summarised simply.
 
 ### Before
@@ -326,10 +190,6 @@ The biggest content change can be summarised simply.
 
 **Audience need → Search intent → Useful answer → Solution → Conversion**
 
-This made the website more relevant to both search engines and users.
-
-Combined with the technical and structural improvements, this shift helped turn organic search into a much stronger acquisition channel.
-
-Within six months, monthly organic traffic increased from approximately:
+This made the website more relevant to both search engines and users. Combined with the technical and structural improvements, this shift helped turn organic search into a much stronger acquisition channel. Within six months, monthly organic traffic increased from approximately:
 
 **2,000 → 6,500 visitors**
