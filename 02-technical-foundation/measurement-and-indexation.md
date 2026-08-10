@@ -80,7 +80,6 @@ This fundamentally changed our priorities. Publishing additional content while m
 Not every URL has the same commercial value. The objective was therefore not: **Get every possible URL indexed.** The objective was: **Make sure the pages that matter for search and the customer journey can be discovered, understood and indexed.** We started looking at the website through different page types.
 
 Examples included:
-
 - Vacancy pages
 - Service pages
 - Commercial landing pages
@@ -93,13 +92,7 @@ This helped us distinguish between pages that supported organic acquisition and 
 
 ## 4. From website pages to search assets
 
-A major shift was changing how we looked at individual pages.
-
-Previously, many pages were simply pieces of website content.
-
-Under the new model, important pages needed to have a clear role within the organic growth system.
-
-For every important page, we increasingly asked:
+A major shift was changing how we looked at individual pages. Previously, many pages were simply pieces of website content. Under the new model, important pages needed to have a clear role within the organic growth system. For every important page, we increasingly asked:
 
 1. Who is this page for?
 2. What problem or search intent does it address?
@@ -108,49 +101,15 @@ For every important page, we increasingly asked:
 5. Where does it sit within the website structure?
 6. What should the user do next?
 
-This changed the mindset from:
-
-**Website maintenance**
-
-to:
-
-**Organic acquisition architecture**
+This changed the mindset from: **Website maintenance** to: **Organic acquisition architecture**
 
 ---
 
 ## 5. Indexation became a management KPI
 
-Indexation was no longer treated as an invisible technical issue.
+Indexation was no longer treated as an invisible technical issue. It became part of the SEO operating model. We could monitor:
 
-It became part of the SEO operating model.
-
-We could monitor:
-
-**Important pages created**
-
-↓
-
-**Pages discoverable**
-
-↓
-
-**Pages indexed**
-
-↓
-
-**Pages receiving impressions**
-
-↓
-
-**Pages generating clicks**
-
-↓
-
-**Pages contributing traffic**
-
-↓
-
-**Pages supporting conversion**
+**Important pages created** → **Pages discoverable** → **Pages indexed** → **Pages receiving impressions** → **Pages generating clicks** → **Pages contributing traffic** → **Pages supporting conversion**
 
 This made it easier to identify where growth was being blocked.
 
@@ -169,42 +128,27 @@ This became a much more useful way to diagnose SEO performance.
 
 Our sequence became:
 
-### Step 1 — Measure
-
+### Step 1 | Measure
 Build reliable visibility through Search Console, GA4 and GTM.
 
-### Step 2 — Diagnose
-
+### Step 2 | Diagnose
 Understand which pages were indexed, which were not and where organic growth was being constrained.
 
-### Step 3 — Prioritise
-
+### Step 3 | Prioritise
 Focus first on pages and sections with the highest search and commercial potential.
 
-### Step 4 — Improve
-
+### Step 4 | Improve
 Address the technical, structural and content issues limiting visibility.
 
-### Step 5 — Measure again
-
+### Step 5 | Measure again
 Use the new data to determine the next highest-impact opportunity.
 
-The process became iterative:
-
-**Measure → Diagnose → Fix → Validate → Learn → Prioritise**
+The process became iterative: **Measure → Diagnose → Fix → Validate → Learn → Prioritise**
 
 ---
 
 ## Why this mattered
 
-The most important change was not the installation of three analytics tools.
-
-It was that SEO became measurable.
-
-Instead of discussing organic growth through assumptions, we could start making decisions using actual search and website data.
-
-And instead of immediately investing in more content, we first worked on making sure the existing website had the foundation required to grow.
-
-That foundation became the starting point for the increase from approximately:
+The most important change was not the installation of three analytics tools. It was that SEO became measurable. Instead of discussing organic growth through assumptions, we could start making decisions using actual search and website data. And instead of immediately investing in more content, we first worked on making sure the existing website had the foundation required to grow. That foundation became the starting point for the increase from approximately:
 
 **2,000 → 6,500 monthly organic visitors within six months.**
