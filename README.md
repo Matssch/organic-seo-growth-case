@@ -1,4 +1,4 @@
-# Organic SEO Growth Case
+# Organic SEO growth case
 
 How my team and I grew organic traffic from approximately 2,000 to 6,500 monthly visitors in six months.
 
